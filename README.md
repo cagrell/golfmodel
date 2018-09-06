@@ -1,0 +1,2 @@
+# golfmodel
+Golf ballistics model
